@@ -1,0 +1,7 @@
+{
+  "name": "MealMatch",
+  "description": "A social dining app connecting food lovers. Find companions to share a meal, explore new cuisines, and make new friends over food. Features AI-powered invitation assistance.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
